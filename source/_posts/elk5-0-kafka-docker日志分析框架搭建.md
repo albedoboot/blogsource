@@ -44,10 +44,10 @@ tags: elk,docker,docker-compose
    service docker start
    ```
 
-6. 使用Docker国内镜像（为Docker镜像下载提速，非必须）
+6. 使用Docker国内镜像（DaoCloud）
 
    ```shell
-   curl -sSL https://get.daocloud.io/daotools/set_mirror.sh | sh -s http://fe8a7d6e.m.daocloud.io
+   curl -sSL https://get.daocloud.io/daotools/set_mirror.sh | sh -s http://6d2bc0ae.m.daocloud.io
    ```
 
 ## Docker Compose的安装
