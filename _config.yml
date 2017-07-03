@@ -69,5 +69,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:somewhereMrli/somewheremrli.github.io.git
+  repo: git@github.com:albedoboot/albedoboot.github.io.git
   branch: master
